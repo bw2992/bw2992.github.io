@@ -2,3 +2,7 @@ body {
   margin: 0 auto;
   max-width: 50em;
 }
+
+.hello {
+    background:url("https://media3.giphy.com/media/9RTiWDExHW6aY/200.gif ");
+}
